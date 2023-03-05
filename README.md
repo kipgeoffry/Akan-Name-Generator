@@ -26,7 +26,7 @@ Kip Geoffry
  * Bootstrap
 ​
 ## Known Bugs
-* I have not experienced any bugs on this site.Should you experience any, kindly contact me.
+* No know bugs experienced or reported.Should you experience any, kindly contact me.
 ​
 ## Copyright & License
 > MIT License 
