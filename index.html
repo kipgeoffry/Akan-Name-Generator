@@ -12,7 +12,7 @@
 
 <body>
     
-    <form action="#">
+    <form>
         <label for="gender">Choose Your Gender:</label>
         <select id="gender" name="gender">
             <option value="male">Male</option>
@@ -20,13 +20,14 @@
         </select>
         <br>
         <label for="birthdate">Enter Your Birth Date:</label>
-        <input type="date" id="birthdate" name="birthdate" min="1940-01-01" max="2023-12-31" required>
+        <input type="date" id="birthdate" name="birthdate" required min="1940-01-01" >
         <br>
-        <button type="button" onclick="alert('submitted')">Submit</button>
+        <input type="button"  value= "Submit" onclick="main()">
     </form>
-    <div id="output">
-        <p></p>
+    <div >
+        <p id="output"></p>
     </div>
+    <script src="js/main.js"></script>
 
 </body>
 
