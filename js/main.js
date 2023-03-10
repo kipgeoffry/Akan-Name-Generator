@@ -25,7 +25,6 @@ function getBirthDate(){
     // get the user birthday
     if (validateDate() == true){
         const birthDay = document.getElementById("birthdate").value;
-        console.log("Birthday:" + birthDay)
         return birthDay;        
     } else{
         alert("Enter a valid Birth date")
