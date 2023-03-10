@@ -60,6 +60,6 @@ function getAkanName(){
 }
 //main function that runs the code
 function main(){
-    document.getElementById("output").innerHTML = "Your Akan Name is: " + getAkanName();
+    document.getElementById("output").innerHTML = getAkanName();
 }
 
