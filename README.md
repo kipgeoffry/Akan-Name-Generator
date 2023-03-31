@@ -2,7 +2,7 @@
 ## Project Name
 Akan Name Generator
 
-[Check it out](https://kipgeoffry.github.io/week2-idp)
+[Check it out](https://kipgeoffry.github.io/Akan-Name-Generator)
 ​
 ## Description.
 This is a a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name.\
@@ -12,7 +12,7 @@ Akan names are derived from Ghanian culture. Frequently in Ghana, children are g
 Kip Geoffry
 
 ## Instalation/Setup
-- git clone https://github.com/kipgeoffry/week2-idp.git
+- git clone https://github.com/kipgeoffry/Akan-Name-Generator.git
 - cd to the cloned directory
 - Open the ``index.html`` on your favorite browser.
 - Choose your gender and select your birth date 
